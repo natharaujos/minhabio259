@@ -8,7 +8,7 @@
 - Cursando Ciência da computação na Universidade Federal de Lavras
 - Email pessoal : nathansaraujo191@gmail.com
 
-- ![Minha foto](myPicture.jpeg)
+- ![Minha foto](myPicture.jpeg, "Minha Foto")
 
 ### Tecnologias
 
